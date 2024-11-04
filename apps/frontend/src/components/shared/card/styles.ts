@@ -5,7 +5,8 @@ export const OuterColors = {
     orange: "bg-tangy dark:bg-transparent dark:border-tangy dark:border-4",
     green: "bg-verdansk dark:bg-transparent dark:border-verdansk dark:border-4",
     red: "bg-paleruby dark:bg-transparent dark:border-paleruby dark:border-4",
-    purple: "bg-people-eater dark:bg-transparent dark:border-people-eater dark:border-4"
+    purple: "bg-people-eater dark:bg-transparent dark:border-people-eater dark:border-4",
+    pink: "bg-[#FFC0CB] dark:bg-transparent dark:border-[#FFC0CB] dark:border-4"
 }
 
 export const InnerColors : { [ key in keyof typeof OuterColors ]: string } = {
@@ -15,7 +16,8 @@ export const InnerColors : { [ key in keyof typeof OuterColors ]: string } = {
     orange: "text-vulcan prose-blockquote:text-vulcan prose-figcaption:text-vulcan dark:text-ghost-white dark:prose-blockquote:text-ghost-white dark:prose-figcaption:text-ghost-white",
     green: "text-vulcan prose-blockquote:text-vulcan prose-figcaption:text-vulcan dark:text-ghost-white dark:prose-blockquote:text-ghost-white dark:prose-figcaption:text-ghost-white",
     red: "text-white prose-h3:text-white prose-h2:text-white prose-figcaption:text-white prose-blockquote:text-white",
-    purple: "text-white prose-h3:text-white prose-h2:text-white prose-figcaption:text-white prose-blockquote:text-white"
+    purple: "text-white prose-h3:text-white prose-h2:text-white prose-figcaption:text-white prose-blockquote:text-white",
+    pink: "text-white prose-h3:text-white prose-h2:text-white prose-figcaption:text-white prose-blockquote:text-white"
 }
 
 export const ContentDirections = {

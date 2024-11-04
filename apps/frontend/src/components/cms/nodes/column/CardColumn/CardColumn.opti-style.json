@@ -55,6 +55,10 @@
         "white": {
           "displayName": "White",
           "sortOrder": 10
+        },
+        "pink": {
+          "displayName": "Pink",
+          "sortOrder": 100
         }
       }
     }
