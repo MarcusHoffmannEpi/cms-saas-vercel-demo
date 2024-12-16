@@ -3,22 +3,12 @@
   "displayName": "Content Recommendations",
   "description": "Add a content recommendations",
   "baseType": "component",
-  "source": "",
   "sortOrder": 0,
-  "features": [
-    "localization",
-    "versioning",
-    "publishPeriod"
-  ],
-  "usage": [
-    "property",
-    "instance"
-  ],
   "mayContainTypes": [],
   "mediaFileExtensions": [],
+  "compositionBehaviors": [],
   "created": "2024-08-12T10:53:05.4900853+00:00",
   "lastModified": "2024-08-12T10:58:20.112328+00:00",
-  "lastModifiedBy": "remko.jantzen@optimizely.com",
   "properties": {
     "BlockDeliveryApiKey": {
       "type": "string",

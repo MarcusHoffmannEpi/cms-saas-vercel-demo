@@ -3,22 +3,12 @@
   "displayName": "Hero",
   "description": "Hero",
   "baseType": "component",
-  "source": "",
   "sortOrder": 100,
-  "features": [
-    "localization",
-    "versioning",
-    "publishPeriod"
-  ],
-  "usage": [
-    "property",
-    "instance"
-  ],
   "mayContainTypes": [],
   "mediaFileExtensions": [],
+  "compositionBehaviors": [],
   "created": "2024-01-29T22:51:53.14+00:00",
   "lastModified": "2024-01-29T22:51:53.14+00:00",
-  "lastModifiedBy": "joshua.folkerts@episerver.com",
   "properties": {
     "HeroImage": {
       "type": "contentReference",

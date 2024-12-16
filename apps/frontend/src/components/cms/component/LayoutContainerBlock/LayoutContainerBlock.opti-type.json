@@ -3,22 +3,12 @@
   "displayName": "Layout",
   "description": "Allows you to specify the layout for the blocks that come after this block",
   "baseType": "component",
-  "source": "",
   "sortOrder": 100,
-  "features": [
-    "localization",
-    "versioning",
-    "publishPeriod"
-  ],
-  "usage": [
-    "property",
-    "instance"
-  ],
   "mayContainTypes": [],
   "mediaFileExtensions": [],
+  "compositionBehaviors": [],
   "created": "2024-01-30T13:13:33.8233333+00:00",
   "lastModified": "2024-01-30T13:13:33.8233333+00:00",
-  "lastModifiedBy": "joshua.folkerts@episerver.com",
   "properties": {
     "ColumnsCount": {
       "type": "integer",

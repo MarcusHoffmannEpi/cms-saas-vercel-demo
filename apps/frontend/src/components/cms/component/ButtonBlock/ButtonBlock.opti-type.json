@@ -3,22 +3,12 @@
   "displayName": "Button",
   "description": "Represents an instance of a button",
   "baseType": "component",
-  "source": "",
   "sortOrder": 100,
-  "features": [
-    "localization",
-    "versioning",
-    "publishPeriod"
-  ],
-  "usage": [
-    "property",
-    "instance"
-  ],
   "mayContainTypes": [],
   "mediaFileExtensions": [],
+  "compositionBehaviors": [],
   "created": "2024-01-30T00:02:44.2566667+00:00",
   "lastModified": "2024-01-30T00:02:44.2566667+00:00",
-  "lastModifiedBy": "joshua.folkerts@episerver.com",
   "properties": {
     "ButtonText": {
       "type": "string",

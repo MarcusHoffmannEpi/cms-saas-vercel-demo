@@ -3,24 +3,14 @@
   "displayName": "Home",
   "description": "The start/home page for this site.",
   "baseType": "page",
-  "source": "",
   "sortOrder": 900,
-  "features": [
-    "localization",
-    "versioning",
-    "publishPeriod",
-    "routing"
-  ],
-  "usage": [
-    "instance"
-  ],
   "mayContainTypes": [
     "*"
   ],
   "mediaFileExtensions": [],
+  "compositionBehaviors": [],
   "created": "2024-01-30T00:10:22.8033333+00:00",
   "lastModified": "2024-01-30T00:31:51.96+00:00",
-  "lastModifiedBy": "joshua.folkerts@episerver.com",
   "properties": {
     "SeoSettings": {
       "type": "component",
